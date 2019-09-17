@@ -18,5 +18,5 @@ support VOC, COCO and [PCB dataset](http://robotics.pkusz.edu.cn/resources/datas
 > python -m visdom.server -port ****
 
 ## Result examples
-![](examples/result1.png)
-![](examples/result4.png)
+![](examples/result1.jpg)
+![](examples/result4.jpg)
